@@ -1,3 +1,8 @@
+How to start:
+1.  python3 -e venv env
+2.  python3 -e venv env
+3.  pip install fastapi uvicorn 
+
 How to run app:
 1. Open terminal and cd into FastAPI
 2. type: pip install requirements.txt
@@ -10,3 +15,5 @@ Open new terminal (keep other running)
 4. npm start
 
 Remember two terminals should be running
+
+
